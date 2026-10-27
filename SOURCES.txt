@@ -1,0 +1,8 @@
+SPEC'26 sample dataset
+- 2284 3D model: public sample part 'face_recognition_sample_part' from the open-source
+  pythonocc-demos repository on GitHub (https://github.com/tpaviot/pythonocc-demos),
+  converted from STEP to IGES with Open CASCADE.
+- 2280-2283: modelled by the team in CadQuery (open-source CAD, Open CASCADE kernel)
+  and exported to IGES; drawings generated from the same 3D models.
+- Deliberate test cases: 2283 material differs between Excel (Brass) and drawing (Aluminium);
+  2282 surface finish is missing from the Excel record.
